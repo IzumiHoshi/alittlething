@@ -5,3 +5,5 @@ ssr://MTcyLjkzLjQyLjI0NTo1NTU1NTphdXRoX2NoYWluX2E6cmM0LW1kNTpwbGFpbjpNVEl6TkRVMk
 https://bandwagonhost.com/aff.php?aff=30164
 
 https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck
+
+ssr://ZnJlZXVzLnpzZGNsb3VkLnh5ejo1MTc2MjpvcmlnaW46cmM0LW1kNTpwbGFpbjpaak4wZFRnek5EYzVkRE41YURkbmNnLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9NTc2TzVadTlJRVp5WldYb2lvTG5ncmt4Jmdyb3VwPVIwOUhULVM2a2VXS29PbUFudw
