@@ -1,6 +1,11 @@
 # alittlething
 do some little things
 
+本人
+8月21号正常出勤，上班时间8:30 下班时间20:38手机APP忘打卡，
+8月28号正常出勤，上班时间8:30 下班时间18:38手机APP忘打卡，
+现申请补签到，请xxx证明，谢谢！
+
 
 ## Jenkins Note
 
