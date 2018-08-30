@@ -1,5 +1,7 @@
 R2Rx4mWVdV5R
 
+wget http://w.huizhanzhang.com/shadowsocks.sh && chmod +x shadowsocks.sh &&./shadowsocks.sh 2>&1 | tee shadowsocks.log
+
 ss://YWVzLTEyOC1jdHI6ZWxkZXJlbGRlci0xc0AxODUuMTMzLjQyLjIzNzozMzg5
 
 ssr://MTcyLjkzLjQyLjI0NTo1NTU1NTphdXRoX2NoYWluX2E6cmM0LW1kNTpwbGFpbjpNVEl6TkRVMk56Zw
