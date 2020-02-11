@@ -14,3 +14,5 @@
 
 2. 进入到twiiter的like页面。按F12打开Console页面。将代码粘贴到页面中并运行。
 3. 代码自动运行并自动翻页直到取消所有like。
+
+> 参考代码： https://www.techjunkie.com/delete-all-twitter-likes/#comments
